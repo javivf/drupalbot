@@ -29,11 +29,15 @@
     "hubot-diagnostics": "^1.0.0",
     "hubot-drookup": "^0.1.0",
     "hubot-drupal": "^1.1.0",
+    "hubot-factoids": "^1.2.0",
     "hubot-friendly": "0.0.2",
     "hubot-help": "^1.0.1",
     "hubot-karma-classic": "^1.0.3",
+    "hubot-reminder-bot": "^2.0.1",
     "hubot-rocketchat": "rocketchat/hubot-rocketchat",
-    "hubot-seen": "^1.0.1"
+    "hubot-rss-reader": "^0.8.3",
+    "hubot-seen": "^1.0.1",
+    "hubot-tell": "^1.2.4"
   },
   "devDependencies": {
     "dotenv": "^5.0.1"

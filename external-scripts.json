@@ -6,5 +6,7 @@
 	"hubot-drupal",
 	"hubot-drookup",
 	"hubot-auth",
-	"hubot-friendly"
+	"hubot-friendly",
+	"hubot-reminder-bot",
+	"hubot-tell"
 ]
