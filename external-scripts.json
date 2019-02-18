@@ -3,10 +3,8 @@
 	"hubot-help",
 	"hubot-diagnostics",
 	"hubot-seen",
-	"hubot-drupal",
 	"hubot-drookup",
 	"hubot-auth",
-	"hubot-friendly",
 	"hubot-reminder-bot",
 	"hubot-tell",
 	"hubot-redis-brain"
