@@ -32,7 +32,7 @@
     "hubot-factoids": "^1.2.0",
     "hubot-friendly": "git+https://github.com/olivierlemasle/hubot-friendly.git#16f77252da5eec659a0288b9a73060cc63a2a194",
     "hubot-help": "^1.0.1",
-    "hubot-karma-classic": "^1.0.3",
+    "hubot-karma-classic": "git+https://github.com/ravikiranj/hubot-karma-classic.git",
     "hubot-redis-brain": "^1.0.0",
     "hubot-reminder-bot": "^2.0.1",
     "hubot-rocketchat": "github:rocketchat/hubot-rocketchat",
