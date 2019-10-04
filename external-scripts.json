@@ -8,5 +8,6 @@
 	"hubot-friendly",
 	"hubot-reminder-bot",
 	"hubot-tell",
-	"hubot-redis-brain"
+	"hubot-redis-brain",
+	"hubot-drupal"
 ]

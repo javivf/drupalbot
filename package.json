@@ -28,7 +28,7 @@
     "hubot-auth": "^2.1.0",
     "hubot-diagnostics": "^1.0.0",
     "hubot-drookup": "^0.1.0",
-    "hubot-drupal": "^1.1.0",
+    "hubot-drupal": "git+https://github.com/javivf/hubot-drupal.git",
     "hubot-factoids": "^1.2.0",
     "hubot-friendly": "git+https://github.com/olivierlemasle/hubot-friendly.git#16f77252da5eec659a0288b9a73060cc63a2a194",
     "hubot-help": "^1.0.1",
