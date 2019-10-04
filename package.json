@@ -23,8 +23,8 @@
     "local": "node -r dotenv/config node_modules/hubot/bin/hubot.js -a rocketchat"
   },
   "dependencies": {
-    "coffeescript": "^2.2.2",
-    "hubot": "3",
+    "coffeescript": "^2.4.1",
+    "hubot": "^3.3.2",
     "hubot-auth": "^2.1.0",
     "hubot-diagnostics": "^1.0.0",
     "hubot-drookup": "^0.1.0",
@@ -35,7 +35,7 @@
     "hubot-karma-classic": "^1.0.3",
     "hubot-redis-brain": "^1.0.0",
     "hubot-reminder-bot": "^2.0.1",
-    "hubot-rocketchat": "rocketchat/hubot-rocketchat",
+    "hubot-rocketchat": "github:rocketchat/hubot-rocketchat",
     "hubot-rss-reader": "^0.8.3",
     "hubot-seen": "^1.0.1",
     "hubot-tell": "^1.2.4"
